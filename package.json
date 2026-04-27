@@ -1,0 +1,1 @@
+{\n  "name": "monorepo",\n  "private": true,\n  "workspaces": [\n    "apps/frontend",\n    "apps/backend",\n    "packages/shared"\n  ]\n}
