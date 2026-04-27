@@ -1,0 +1,1 @@
+{\n  "name": "shared-types-utilities",\n  "version": "1.0.0",\n  "description": "Shared types and utilities for AutoReport AI.",\n  "main": "index.js",\n  "scripts": {\n    "test": "echo 'Error: no test specified' && exit 1"\n  },\n  "keywords": [\n    "auto-report",\n    "utilities",\n    "shared",\n    "types"\n  ],\n  "author": "ElMO-DEV780",\n  "license": "MIT"\n}
